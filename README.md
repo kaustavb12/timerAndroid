@@ -3,15 +3,17 @@ This is as simple but efficient timer app for android created based on my person
 
 You can create multiple sequences of countdown timers which can be run once or in a loop.
 
-Screen 1:
-The first screen lists all stored sequences called events.
+Screen 1: The first screen lists all stored sequences called events.
+
 Create new events by clicking + button
+
 Long press each event to get Menu to either edit or delete event
+
 Press event to open screen to run the sequence
  
- Screen 2:
-  This screen is used to create new event or edit existing event
-  Click + button to create new timer item
+Screen 2: This screen is used to create new event or edit existing event
+  
+Click + button to create new timer item
   Long press timer item to open Menu to get delete option
   Press timer item to edit existing timer
   
