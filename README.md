@@ -1,5 +1,5 @@
 # Android Countdown Timer
-This is as simple but efficient timer app for android created based on my personal need.
+This is a simple, no-frills but efficient timer app for android created based on my personal need.
 
 You can create multiple sequences of countdown timers which can be run once or in a loop.
 
