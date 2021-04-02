@@ -3,6 +3,10 @@ This is as simple but efficient timer app for android created based on my person
 
 You can create multiple sequences of countdown timers which can be run once or in a loop.
 
+And the most important feature of this app - Unlike all other timers I have used, it doesn't
+throw a tantrum at the end of the countdown. It just beeps twice to inform you and then promptly
+shuts-up without you even needing to touch the phone.
+
 ### Screen 1: 
 *The first screen lists all stored sequences called events*
 
